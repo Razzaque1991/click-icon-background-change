@@ -1,0 +1,22 @@
+/* styles.css */
+body {
+    background-color: white;
+    color: black;
+}
+
+.icon-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.icon {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+}
